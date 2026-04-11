@@ -10,9 +10,6 @@
 
 Send your report to this email: security@astermail.org  
 
-PGP key: [link - publish to keys.openpgp.org and add it here]
-
-
 We will read your report within 48 hours and make sure to resolve critical vulnerabilities within seven days. We will make sure to keep you updated throughout the entire process. 
 
 
