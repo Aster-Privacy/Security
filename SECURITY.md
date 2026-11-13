@@ -37,6 +37,8 @@ Mail between Aster users is encrypted and decrypted on your device, so the serve
 
 Encrypted data includes subject lines, message content, contacts, folder structure, search indices, and attachment data. Routing data that mail delivery depends on, such as sender and recipient addresses and timestamps, stays visible to the server.
 
+The web app runs code that your browser downloads from Aster each time you open it, so it relies on the server delivering the published code. The desktop and mobile apps ship as signed builds that you can check against the public source, which removes that dependency.
+
 ## Coordinated disclosure
 
 We follow coordinated disclosure. Give us adequate time to patch a vulnerability before you publish it. If you would like public credit, say so in your report.
